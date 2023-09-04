@@ -11,7 +11,3 @@ Framework Handler Implementation: Develop a framework handler for PyG that will 
 
 
 Ivy Integration: Implement missing functions in Ivy's backend and frontend so that all functions and operations in PyG can be correctly transpiled. Ivy will play a crucial role in translating PyG's operations into the syntax and functionality of various ML frameworks.
-
-Performance Benchmarks: Showcase the enhanced runtime efficiency of PyG when using different backends. In particular, demonstrate the significant performance improvements achievable with a JAX backend on TPUs compared to the original PyTorch implementation. This will help users understand the advantages of multi-framework compatibility.
-
-
