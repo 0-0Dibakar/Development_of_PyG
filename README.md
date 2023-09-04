@@ -7,6 +7,7 @@ Project Overview
 The primary goals of this project are as follows:
 
 Framework Handler Implementation: Develop a framework handler for PyG that will allow seamless multi-framework support. This handler will enable users to switch between different machine learning frameworks (PyTorch, TensorFlow, JAX, NumPy, etc.) with ease, providing a consistent interface for graph neural network operations.
+
 ![IMG1](https://github.com/0-0Dibakar/Development_of_PyG/assets/106139442/c2ff2381-e916-437d-aeda-5f73b4d34889)
 
 
