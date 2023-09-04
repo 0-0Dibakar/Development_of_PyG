@@ -1,6 +1,6 @@
 # Development_of_PyG
 
-![img2](https://github.com/0-0Dibakar/Development_of_PyG/assets/106139442/627f79c1-626b-46b3-b780-7189617f4a41)
+                                     ![img2](https://github.com/0-0Dibakar/Development_of_PyG/assets/106139442/627f79c1-626b-46b3-b780-7189617f4a41)
 
 I developed an PyG is a pure-Python library for creating and modifying graph neural networks (GNNs), built on top of PyTorch and extend PyG such that it is compatible with all other ML frameworks (TensorFlow, JAX, NumPy, etc.)
 PyG Multi-Framework Compatibility Project
